@@ -1,0 +1,78 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+p{
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.tdiv{
+  width: 200px;
+  height: 270px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.fdiv{
+   width: 200px;
+   height: 150px;
+}
+.sdiv{
+  border: solid 1px rgb(128, 128, 128);
+   width: 199px;
+   height: 119px;
+   border-radius: 4px;
+   box-shadow: 1px 1px 1px 1px rgba(204, 204, 204,0.3);
+   
+}
+
+.img{
+  width: 200px;
+  height: 150px;
+  margin-bottom: 0px;
+}
+
+
+
+.text{
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 7px;
+  margin-left: 5px;
+}
+
+.img2{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: inline;
+  vertical-align: middle;
+ margin-bottom: 10px;
+  margin-right: 7px;
+  margin-left: 5px;
+  
+}
+.text2{
+  display: inline;
+  vertical-align: top;
+  margin-top: 15px;
+  text-align: center;
+  color: rgb(128, 128, 128);
+}
+
+.friend{
+  border: none;
+  background-color: rgb(51, 173, 255);
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-left: 5px;
+}

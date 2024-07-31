@@ -1,0 +1,92 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+p{
+  margin-top: 0;
+  margin-bottom: 0;;
+}
+
+
+.fdiv,
+.sdiv,
+.ldiv{
+  display: inline-block;
+  margin-top: 0;
+  
+}
+
+.tdiv{
+  width: 500px;
+  height: 70px;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.fdiv{
+  width: 90px;
+   height: 70px;
+    vertical-align: middle;
+}
+.sdiv{
+  width: 120px;
+   height: 70px;
+   margin-right: 50px;
+    vertical-align: middle;
+}
+.ldiv{
+  width: 120px;
+  vertical-align: middle;
+   height: 70px;
+   
+  
+}
+
+.ftext{
+  
+  margin-bottom: 3px;
+  font-weight: bold;
+   vertical-align: middle;
+  
+}
+.stext{
+  
+  color: rgb(153, 153, 153);
+   margin-bottom: 3px;
+   
+}
+
+.ttext{
+  color: rgb(153, 153, 153);
+  width: 80px;
+}
+
+.img{
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+
+.button{
+  
+  border: none;
+  background-color: rgb(0, 170, 255);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 17px;
+  font-family: Arial;
+  font-weight: bold;
+  border-radius: 5px;
+  vertical-align: left;
+  margin-top: 2px;
+  margin-left: 50px;
+}

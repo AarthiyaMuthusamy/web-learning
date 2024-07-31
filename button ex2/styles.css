@@ -1,0 +1,143 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+.uber-button{
+  
+  background-color: black;
+  color: white;
+  border: none;
+  height: 45px;
+  width: 130px;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 2px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+ 
+}
+
+.uber-button:hover{
+  opacity: 0.8;
+}
+
+.amazon-button{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: none;
+  height: 45px;
+  width: 200px;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 25px;
+  margin-bottom: 30px;
+  
+}
+.amazon-button:hover{
+  opacity: 0.8;
+}
+
+
+.github-button{
+  background-color: rgb(46,164,79);
+  color: white;
+  border: none;
+  height: 45px;
+  width: 120px;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 30px;
+   margin-right: 10px;
+}
+
+.github-button:hover{
+  opacity: 0.8;
+}
+
+
+.bootstarp-button{
+  
+   background-color: rgb(121,82,179);
+  color: white;
+  border: none;
+  height: 45px;
+  width: 140px;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 3px;
+  margin-bottom: 30px;
+  margin-right: 8px;
+  
+}
+.bootstarp-button:hover{
+  opacity: 0.7;
+}
+
+
+.boot-button{
+  
+  
+   background-color: white;
+  color: black;
+  border: none;
+  height: 45px;
+  width: 140px;
+  font-size: 17px;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 2px;
+  border-color:rgb(108,117,125);
+  border-radius: 3px;
+  margin-bottom: 30px;
+  
+  transition: background-color 1s, color 1s;
+}
+
+.boot-button:hover{
+  background-color: rgb(108,117,125);
+  color: white;
+}
+
+
+.link-button{
+  
+  background-color: rgb(10,102,194);
+  color: white;
+  border: none;
+  height: 45px;
+  width: 260px;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  margin-right: 8px;
+
+}
+.link-button:hover{
+  opacity: 0.8;
+}
+
+
+.linkedln-button{
+  
+  background-color: white;
+  color: blue;
+  border: none;
+  height: 45px;
+  width: 100px;
+  font-size: 17px;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+
+.linkedln-button:hover{
+  background-color: rgb(230, 250, 255);
+}

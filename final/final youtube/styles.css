@@ -1,0 +1,187 @@
+body{
+  margin: 0;
+  padding: 25px;
+ 
+}
+.title {
+	color: #5C6AC4;
+}
+
+
+.hamburger-menu{
+  height:24px;
+  margin-left:24px;
+  margin-right:20px;
+  
+}
+
+.youtube-logo{
+  height:20px;
+  
+}
+.input-type{
+  height: 45px;
+  width: 450px;
+  font-size: 17px;
+  border: 1px solid rgb(201, 199, 199);
+  padding-left: 10px;
+
+}
+.input-type::placeholder{
+ font-size: 15px;
+ margin-left: 30px;
+}
+.search-button{
+  height: 48px;
+  width: 48px;
+  margin-right: 10px;
+  background-color: rgb(245, 245, 245);
+  border: 1px solid rgb(201, 199, 199);
+  
+  
+}
+.voice-search-icon{
+ 
+  height: 30px;
+  width:30px;
+  margin-right: 3px;
+  
+}
+.mic-button{
+  height: 49px;
+  width: 50px;
+  border:none;
+  
+  background-color: rgb(243, 241, 241);
+  margin-right: 20px;
+}
+.mic{
+  border: none;
+  height:30px;
+  width: 30px;
+  
+  
+}
+
+.input-box{
+  flex:1;
+  
+}
+.header{
+  margin-top: 0;
+  display:flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  align-items: center;
+  height: 55px;
+  position: fixed;
+ background-color: rgb(243, 241, 241);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+ 
+}
+
+.left{
+  
+  display:flex;
+  align-items: center;
+  width: 250px;
+  
+}
+
+.middle{
+  margin-left: 20px;
+  margin-right: 50px;
+  flex:1;
+  display: flex;
+  width: 500px;
+ 
+}
+.right{
+  
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.vdo-icon{
+  height: 40px;
+  width: 40px;
+}
+
+.dot-icon{
+  height: 40px;
+  width: 40px;
+}
+
+.notification-icon{
+  height: 40px;
+  width: 40px;
+}
+
+.profile-icon{
+  height: 40px;
+  width: 40px;
+}
+.vdo-preview{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 20px;
+  margin-bottom: 20px;
+  
+}
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.photo{
+  width: 100%;
+  border-radius: 50%;
+}
+
+.img-div{
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+  
+}
+.text-div{
+  display: inline-block;
+  width: 230px;
+}
+
+.vdo-title{
+  margin-top: 0;
+  margin-left: 10px;
+  width: 250px;
+  font-weight: 500;
+  font-family: Times New Roman;
+  line-height: 15px;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+.vdo-author{
+  margin-left: 10px;
+  color: rgb(89, 89, 89);
+  font-size: 13px;
+  margin-bottom: 4px;
+ 
+  
+ 
+}
+
+
+.vdo-stats{
+   margin-left: 10px;
+    color: rgb(89, 89, 89);
+    font-size: 13px;
+    
+   
+}

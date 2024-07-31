@@ -1,0 +1,49 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+
+a{
+  
+  font-size: 20px;
+  color: rgb(0,113,133);
+}
+
+h3{
+  color: rgb(0,118,0);
+}
+.demo{
+  color: black;
+}
+
+.cart-button{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: none;
+  height: 45px;
+  width: 200px;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 25px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  
+  
+  
+}
+
+.buy-button{
+  
+  background-color: rgb(255, 164, 28);
+  color: black;
+  border: none;
+  height: 45px;
+  width: 200px;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 25px;
+  margin-bottom: 30px;
+}
